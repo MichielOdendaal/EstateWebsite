@@ -1,2 +1,2 @@
 # EstateWebsite
-Just a quick estate agentt website example.
+Just a quick estate agent website example.
