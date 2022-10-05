@@ -1,0 +1,123 @@
+
+        body {
+            width: 100vw;
+            max-width: 1920px;
+            background-color: #040852;
+            margin: 0 auto;
+            font-family: sans-serif;
+            text-decoration-color: antiquewhite;
+            color: #57b1dc;
+        }
+        
+        #logo {
+            text-align: center;
+            padding-top: 30px;
+        }
+        h1 {
+            text-align: center;
+            font-family: sans-serif;
+            font-weight: bold;
+            font-size: medium;
+            margin-top: 30px;
+            color: #57b1dc;
+            text-decoration: none;
+            text-decoration-style: none;
+        }
+
+        .phone_menu {
+            display:inline;
+            margin: auto;
+        }
+
+        ul#horizontal{
+            min-width: 690px;
+            list-style: none;
+            padding-top: 20px;
+            text-decoration: none;
+        }
+
+        ul#horizontal li {
+            display: inline;
+            text-decoration: none;
+            text-decoration-style: none;
+        } 
+        
+        ul#horizontal li a {
+            color: antiquewhite;
+            text-decoration: none;
+            text-decoration-style: none;
+            padding: 10px;
+                     
+        }
+
+       
+
+        .nav_menu ul {
+           text-decoration: none; 
+        }
+        
+        .nav_menu li {            
+            display: inline;
+            padding-top: 30px;
+            width: 25%;
+            padding-bottom: 50px;
+            text-decoration: none;
+            float:left;
+            position: relative;
+            padding-left: 0px;
+        }
+
+        .nav_menu li a {
+            display: inline-block;
+            width: 65%;
+            text-decoration: none;
+            color:#040852;
+            background-color:chartreuse;
+            text-align: center;
+            font-weight: bold;
+            border-width: 10px;
+            border-style:double;
+            border-radius: 20px;
+            border-color:darkorchid;
+            border-block-color: darkorchid;
+            border-inline-color: darkorchid;
+            border-top-color: darkorchid;
+        }
+
+        .nav_menu li a:hover {
+            color:#040852 !important;
+            background-color: antiquewhite;
+        }
+
+        .nav_menu {
+            width: 100%;
+            list-style: none;   
+            margin-left: 30px;
+            padding: 0;
+            text-decoration: none;
+        }
+
+        .nav_menu ul li {
+          
+            float: left;
+            display: inline
+        }
+
+        .bothclear {
+            clear: both;
+        }
+
+        #portrait {
+            color: antiquewhite;
+        }
+
+        figcaption {
+            color: antiquewhite;
+            text-align: left;
+        }
+
+        
+        
+        
+        
+    
